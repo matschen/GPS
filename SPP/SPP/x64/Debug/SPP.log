@@ -1,0 +1,3 @@
+﻿  RinexReader.cpp
+d:\master\gps\spp\spp\rinexreader.cpp(212): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  SPP.vcxproj -> D:\Master\GPS\SPP\x64\Debug\SPP.exe
